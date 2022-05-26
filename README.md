@@ -94,7 +94,7 @@ You will pass the DataFrame gathered from the extraction phase to the Each of th
 <!-- USAGE EXAMPLES -->
 ## Training
 
-Utilize the Training Block in the Final Jupyter Note File where you would pass the top 100 features of each and it will train 2 different sets of models based on Correlation and RFECV
+Utilize the Training Block in the Final Jupyter Note File where you would pass the top 100 features of each and it will train 2 different sets of models based on Correlation and RFECV.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
