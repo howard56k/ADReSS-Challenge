@@ -1,9 +1,4 @@
-# ADReSS-Challenge
-
-
-
-<h3 align="center">project_title</h3>
-
+# Evaluating Acoustic and Linguistic Features for Neurological Task Score Prediction for Alzheimer’s
 
 
 <!-- TABLE OF CONTENTS -->
@@ -20,10 +15,10 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Extraction">Feature Extraction</a></li>
-    <li><a href="#Selection">Feature Selection</a></li>
+    <li><a href="#extraction">Feature Extraction</a></li>
+    <li><a href="#selection">Feature Selection</a></li>
     <li><a href="#training">Training</a></li>
-    <li><a href="#Testing">Testing</a></li>
+    <li><a href="#testing">Testing</a></li>
   </ol>
 </details>
 
@@ -111,9 +106,7 @@ Utilize the Training Block in the Final Jupyter Note File where you would pass t
 <!-- USAGE EXAMPLES -->
 ## Testing
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Lastly Testing is Done alongside the Training Where after the model is done training it is then tested on the test set. You will be able to further test the Model and Graph the results in the next blocks of the code.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
